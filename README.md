@@ -5,13 +5,13 @@ Lionheads Collection of ESA Launchers fixed and maintained by MacLuky
 http://imgur.com/a/igjoo
 
 ## Contents
-- Diamant
+- Diamant.
 A small early solid rocket that launches the first european satelite
-- Europa
+- Europa.
 Early ESA rocket based on French and British rockets
-- VEGA
+- VEGA.
 Light launcher for ESA
-- Ariane Family
+- Ariane Family.
 Consists of 3, 4, 5, and 6
 
 ## Original Forum Post
